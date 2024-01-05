@@ -1,0 +1,17 @@
+{
+  "name": "js_cleanup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Njenga",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "pino": "^8.17.2",
+    "pino-pretty": "^10.3.1"
+  },
+  "type": "module"
+}
